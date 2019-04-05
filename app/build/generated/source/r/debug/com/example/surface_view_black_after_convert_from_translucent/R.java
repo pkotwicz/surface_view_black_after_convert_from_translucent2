@@ -12765,7 +12765,4 @@ public final class R {
      */
     public static final int ViewStubCompat_android_inflatedId=2;
   }
-  public static final class transition {
-    public static final int no_anim2=0x7f0e0000;
-  }
 }
