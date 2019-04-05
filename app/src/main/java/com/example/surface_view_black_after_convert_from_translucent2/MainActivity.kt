@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        android.util.Log.e("ABCD", "created")
         var layout = android.widget.FrameLayout(this)
         setContentView(layout)
 
@@ -25,7 +24,6 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }, 1000)
-        android.util.Log.e("ABCD", "after convert from translucent")
 
         Handler().postDelayed(object: Runnable{
             override fun run() {
