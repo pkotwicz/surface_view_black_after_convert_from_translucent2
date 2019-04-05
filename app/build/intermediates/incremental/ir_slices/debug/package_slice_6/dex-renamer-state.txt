@@ -1,0 +1,4 @@
+#Mon Mar 18 09:02:31 EDT 2019
+base.0=/usr/local/google/home/pkotwicz/Desktop/shared_element_sample/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

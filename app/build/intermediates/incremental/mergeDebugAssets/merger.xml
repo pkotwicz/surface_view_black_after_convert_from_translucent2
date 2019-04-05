@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/assets"/><source path="/usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/debug/assets"/></dataSet></merger>
