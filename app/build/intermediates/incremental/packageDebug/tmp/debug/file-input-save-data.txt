@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Fri Apr 05 11:17:25 EDT 2019
-0.baseType=DIRECTORY
-0.base=/usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/build/intermediates/transforms/dexMerger/debug/0
-0.path=classes.dex
-0.set=DEX
-count=1
