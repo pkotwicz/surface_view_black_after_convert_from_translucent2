@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06e6ac648d4080115cf912f0d3dc2b42/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2c8836649f9b94e4d87c3a50c8e87422/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d843df965b26d62ce7925bc1be83b7cc/AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /usr/local/google/home/pkotw
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2c8eedb13729c2ebeab86a9823f99d25/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d30ba5f3959ba32a69f03ef0fe270aff/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ed0baab43f7e42e1c769f51ffb29090/AndroidManifest.xml:17:1-22:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:3:11-82
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:3:11-83
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2c8836649f9b94e4d87c3a50c8e87422/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2c8836649f9b94e4d87c3a50c8e87422/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b21fcb49ff447f3743c0c102810ba761/AndroidManifest.xml:22:5-94
@@ -59,35 +59,35 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /usr/local/google/h
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b21fcb49ff447f3743c0c102810ba761/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:8:9-45
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:8:9-45
 	android:roundIcon
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.surface_view_black_after_convert_from_translucent.MainActivity
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.surface_view_black_after_convert_from_translucent2.MainActivity
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:12:19-108
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:12:19-109
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06e6ac648d4080115cf912f0d3dc2b42/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06e6ac648d4080115cf912f0d3dc2b42/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2c8836649f9b94e4d87c3a50c8e87422/AndroidManifest.xml:5:5-7:41
@@ -142,13 +142,13 @@ MERGED from [android.arch.core:runtime:1.1.1] /usr/local/google/home/pkotwicz/.g
 MERGED from [android.arch.core:runtime:1.1.1] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d30ba5f3959ba32a69f03ef0fe270aff/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ed0baab43f7e42e1c769f51ffb29090/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /usr/local/google/home/pkotwicz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ed0baab43f7e42e1c769f51ffb29090/AndroidManifest.xml:20:5-44
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
-		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/pkotwicz/Desktop/surface_view_black_after_convert_from_translucent2/app/src/main/AndroidManifest.xml

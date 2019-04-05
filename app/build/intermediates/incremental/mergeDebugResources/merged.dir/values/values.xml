@@ -658,7 +658,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:windowContentTransitions">false</item>
         <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowBackground">@color/blue</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>

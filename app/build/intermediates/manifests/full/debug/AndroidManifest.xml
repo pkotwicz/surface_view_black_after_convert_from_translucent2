@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.surface_view_black_after_convert_from_translucent.MainActivity" >
+        <activity android:name="com.example.surface_view_black_after_convert_from_translucent2.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
